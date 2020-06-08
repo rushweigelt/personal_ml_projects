@@ -1,0 +1,1 @@
+Attempt at using an LSTM to predict stockmarket prices in various day incriments.
